@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Sowmik</h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Mono&center=true&vCenter=true&lines=Feel+free+to+look+around.;Reach+out+if+you+need+help!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Mono&color=2CF73A&center=true&width=1200&lines=Feel+free+to+look+around.;Reach+out+if+you+need+help!)](https://git.io/typing-svg)
 
 - 🔭 I’m currently working as a **Software Engineer**
 
