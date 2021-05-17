@@ -83,7 +83,7 @@
 <br/>  
 
 
-## Listen my favourites 
+## Listen to my favourites 
 <br/>  
 
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=uioskkgl7ppefolzb2pfme51t&cover_image=true&theme=default" /></div>  
