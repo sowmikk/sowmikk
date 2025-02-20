@@ -27,7 +27,7 @@
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working as a **Software Engineer**  
+- 🔭 I’m currently working as a **SQA Engineer**  
   
 
 - 🌱 I’m currently learning **Big Data Analysis**  
